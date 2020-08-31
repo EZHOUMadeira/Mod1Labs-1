@@ -12,8 +12,18 @@ public class Lab4 {
 				(a)iii. twitterHandle
 		II. Reads the user's favorite artist
 		III. Opens the file artistList.txt
-		IV. Reads the list of artists in the above file & prints:
-			a. Match if a match between the user's artist and textfile is found.
-
+		IV. Creates a method named artistMatch which does the following:
+			a. Reads the list of artists in the above file
+			b. Prints match if a match between the user's artist and textfile is found.
 	*/
+
+	// Part I code below
+
+	// Part II code below
+
+	// Part III code below
+
+	// Part IV code below
+			
+
 }
