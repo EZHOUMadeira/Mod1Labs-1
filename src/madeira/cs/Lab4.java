@@ -11,8 +11,8 @@ public class Lab4 {
 				(a)ii. album
 				(a)iii. twitterHandle
 		II. Reads the user's favorite artist
-		II. Opens the file artistList.txt
-		III. Reads the list of artists in the above file & prints:
+		III. Opens the file artistList.txt
+		IV. Reads the list of artists in the above file & prints:
 			a. Match if a match between the user's artist and textfile is found.
 
 	*/
