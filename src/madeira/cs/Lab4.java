@@ -1,6 +1,6 @@
 package madeira.cs;
 
-public class Lab4 {
+public class SuperLab {
 	/*
 		Instructions for use
 		-------
@@ -10,11 +10,8 @@ public class Lab4 {
 				(a)i. name
 				(a)ii. album
 				(a)iii. twitterHandle
-		II. Reads the user's favorite artist
-		III. Opens the file artistList.txt
-		IV. Creates a method named artistMatch which does the following:
-			a. Reads the list of artists in the above file
-			b. Prints match if a match between the user's artist and textfile is found.
+		II. Creates 6 methods to set & get each of these values + 1 main method	
+		III. Uses the main method to open the text file artistList.txt
 	*/
 
 	// Part I code below
